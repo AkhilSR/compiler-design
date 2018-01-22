@@ -1,2 +1,6 @@
-# compiler-design
-c program to implement lexical analyzer
+#include<stdio.h>
+#include<stdlib.h>
+int main
+{
+  printf("Hello  World");
+}
